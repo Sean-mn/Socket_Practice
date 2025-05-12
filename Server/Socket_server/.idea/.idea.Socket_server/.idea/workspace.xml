@@ -5,14 +5,24 @@
     <projectFile profileName="http">Socket_server/Socket_server.csproj</projectFile>
     <projectFile profileName="https">Socket_server/Socket_server.csproj</projectFile>
   </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f473ce67-79ef-4709-bd9b-c4f989379f2b" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/Socket_server/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Socket_server/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Client/Socket_client/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Client/Socket_client/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Socket_server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Socket_server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket_server/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Socket_server/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket_server/obj/Debug/net8.0/Socket_server.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Socket_server/obj/Debug/net8.0/Socket_server.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Socket_server/obj/Debug/net8.0/Socket_server.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Socket_server/obj/Debug/net8.0/Socket_server.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -39,15 +49,21 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET 실행 설정 프로파일.Socket_server: IIS Express.executor": "Run",
+    ".NET 실행 설정 프로파일.Socket_server: http.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected=".NET 실행 설정 프로파일.Socket_server: IIS Express">
+  <component name="RunManager" selected=".NET 실행 설정 프로파일.Socket_server: http">
     <configuration name="Socket_server: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Socket_server/Socket_server.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -101,7 +117,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747065184850</updated>
-      <workItem from="1747065186123" duration="200000" />
+      <workItem from="1747065186123" duration="884000" />
     </task>
     <servers />
   </component>
